@@ -10,6 +10,20 @@ Este repositório é o **serviço de alertas (SOA)**: ele recebe as leituras de 
 
 ---
 
+---
+
+## 👨‍💻 Integrantes
+
+| Nome | RM |
+|--------|--------|
+| Fernando Gonzales Alexandre | RM555045 |
+| Gabriel Guerreiro | RM554973 |
+| Lucas Dias | RM555450 |
+| Luiz Felipe Coelho | RM555074 |
+| Vitor Musolino | RM555012 |
+
+---
+
 ## 🧾 Ficha da CitizenTech
 
 | Campo | Conteúdo |
@@ -256,27 +270,13 @@ Os testes usam Mockito e **não precisam do MySQL**.
 <img width="1907" height="981" alt="image" src="https://github.com/user-attachments/assets/9509cfc7-81c2-4879-9ca7-ff5f553a6266" />
 
 ### Erro 404
-![Erro 404](evidencias/05-erro-404.png)
+<img width="1897" height="987" alt="image" src="https://github.com/user-attachments/assets/9657c84d-1dd8-4bd8-a8ed-b2db593926c7" />
 
 ### Banco MySQL
-![Banco MySQL](evidencias/06-banco-mysql.png)
+<img width="1912" height="1018" alt="image" src="https://github.com/user-attachments/assets/6d419fc3-28ca-4679-bba7-15d7b87a8af6" />
 
 ### Testes automatizados
 ![Testes](evidencias/07-testes.png)
-
----
-
-## 👨‍💻 Integrantes
-
-| Nome | RM |
-|--------|--------|
-| Fernando Gonzales Alexandre | RM555045 |
-| Gabriel Guerreiro | RM554973 |
-| Lucas Dias | RM555450 |
-| Luiz Felipe Coelho | RM555074 |
-| Vitor Musolino | RM555012 |
-
----
 
 ## 🤖 Uso de IA
 
