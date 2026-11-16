@@ -34,7 +34,7 @@ Este repositório é o **serviço de alertas (SOA)**: ele recebe as leituras de 
 | Problema, em uma frase | Pessoas expostas a alagamentos nem sempre têm informações locais, organizadas e compreensíveis para planejar seus deslocamentos |
 | Como funciona | O sensor (ESP32) envia leituras de nível de água; este serviço guarda o histórico e gera alertas; o aplicativo consulta |
 | O que cada parte faz | SOA (este repositório): leituras e alertas; C#: API de coleta e classificação; IA/ML: padrões históricos; ESP32/Wokwi: sensor; App Expo: consulta |
-| Link do repositório | `<colar o link do GitHub>` |
+| Link do repositório | `https://github.com/Fernando1403/GS-SOA-AquaSense` |
 | Indicador de impacto | Alertas gerados corretamente a partir das leituras recebidas |
 | ODS conectados | 11, 13 e 3 |
 
