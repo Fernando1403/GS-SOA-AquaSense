@@ -276,7 +276,7 @@ Os testes usam Mockito e **não precisam do MySQL**.
 <img width="1912" height="1018" alt="image" src="https://github.com/user-attachments/assets/6d419fc3-28ca-4679-bba7-15d7b87a8af6" />
 
 ### Testes automatizados
-![Testes](evidencias/07-testes.png)
+<img width="1911" height="1028" alt="image" src="https://github.com/user-attachments/assets/a845e778-bfd5-4859-ba7f-3423a12798ae" />
 
 ## 🤖 Uso de IA
 
